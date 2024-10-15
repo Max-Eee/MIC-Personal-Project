@@ -1,4 +1,4 @@
-# --Ice Cream Mixer Mini Project--
+# Ice Cream Mixer Mini Project🍦
 
 The Ice Cream Mixer project involves providing an API for managing ice cream flavors. Here's an overview of its functionality:
 
